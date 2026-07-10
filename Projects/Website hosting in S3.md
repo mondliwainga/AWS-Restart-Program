@@ -7,7 +7,7 @@ A fully responsive static website developed for **The Rusty Spoon**, a Halaal ca
 ## 🌐 Live Website
 
 🔗 **Website:**  
-http://rustyspoon-nambi.s3-website-eu-west-1.amazonaws.com/index.html#gallery
+[http://rustyspoon-nambi.s3-website-eu-west-1.amazonaws.com/index.html
 
 ---
 
