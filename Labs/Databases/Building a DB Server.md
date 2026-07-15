@@ -200,6 +200,10 @@ Verified the database connection by performing CRUD (Create, Read, Update, Delet
 
 The database automatically replicates all data to the standby instance located in the second Availability Zone.
 
+Edited Data
+<img width="2412" height="846" alt="image" src="https://github.com/user-attachments/assets/b031a4dc-eb8d-49c9-a0c5-d90f11409b6b" />
+
+
 ---
 
 # High Availability
