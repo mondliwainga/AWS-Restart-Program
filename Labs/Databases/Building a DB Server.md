@@ -1,4 +1,4 @@
-# Build Your DB Server and Interact with Your Database Using Amazon RDS
+# Building a DB Server and Interacting with my Database Using Amazon RDS
 
 ## Overview
 
@@ -42,7 +42,8 @@ Before deploying Amazon RDS, the environment consists of:
 - NAT Gateway
 - Amazon EC2 Web Server
 
-![Initial Architecture](image.png)
+<img width="1067" height="511" alt="image" src="https://github.com/user-attachments/assets/dbe551b3-8512-46bf-92fd-d3a6c349f5e3" />
+
 
 ---
 
@@ -57,7 +58,8 @@ After completing the lab, the architecture includes:
 - DB Subnet Group
 - Secure communication between EC2 and RDS
 
-![Final Architecture](image(1).png)
+<img width="1064" height="507" alt="image" src="https://github.com/user-attachments/assets/0628f9f9-0bc5-4057-a355-894555253f54" />
+
 
 ---
 
@@ -182,6 +184,8 @@ After the database became available:
 | Password | lab-password |
 
 After submitting the configuration, the Address Book application successfully connected to Amazon RDS.
+<img width="2482" height="792" alt="image" src="https://github.com/user-attachments/assets/98dafb98-eef6-473b-916b-713405ffa550" />
+
 
 ---
 
