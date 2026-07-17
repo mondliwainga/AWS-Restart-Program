@@ -64,7 +64,7 @@ Connected securely using SSH and the provided PEM key.
 Example:
 
 ```bash
-ssh -i lab.pem ec2-user@<LinuxServer-IP>
+ssh -i lab.pem ec2-user@54.186.90.160
 ```
 
 ---
@@ -74,7 +74,7 @@ ssh -i lab.pem ec2-user@<LinuxServer-IP>
 Example:
 
 ```bash
-mysql -h <RDS-Endpoint> -P 3306 -u admin -p
+mysql -h studentdb.cbwyuhdbe7tl.us-west-2.rds.amazonaws.com -u admin -p
 ```
 
 ---
