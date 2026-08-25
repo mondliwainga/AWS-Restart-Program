@@ -554,7 +554,7 @@ numbers of words.
 
 <h3>Test 1</h3>
 
-<pre>test1.txt</pre>
+<pre>test3.txt</pre>
 
 <pre>Hello AWS Lambda this is my first test.</pre>
 
@@ -564,7 +564,7 @@ numbers of words.
 
 <h3>Test 2</h3>
 
-<pre>test2.txt</pre>
+<pre>test.txt</pre>
 <img width="1006" height="579" alt="image" src="https://github.com/user-attachments/assets/2fe72274-1210-42d0-a62e-8bfaf4782879" />
 
 
